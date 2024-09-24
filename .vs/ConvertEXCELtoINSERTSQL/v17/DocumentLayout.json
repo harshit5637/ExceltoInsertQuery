@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ConvertEXCELtoINSERTSQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8442E-BE80-430E-BCE3-092C97E01FC3}|ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj|d:\\convertexceltoinsertsql\\convertexceltoinsertsql\\controllers\\excelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8442E-BE80-430E-BCE3-092C97E01FC3}|ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj|solutionrelative:convertexceltoinsertsql\\controllers\\excelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8442E-BE80-430E-BCE3-092C97E01FC3}|ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj|d:\\convertexceltoinsertsql\\convertexceltoinsertsql\\model\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8442E-BE80-430E-BCE3-092C97E01FC3}|ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj|solutionrelative:convertexceltoinsertsql\\model\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8442E-BE80-430E-BCE3-092C97E01FC3}|ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj|d:\\convertexceltoinsertsql\\convertexceltoinsertsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FF8442E-BE80-430E-BCE3-092C97E01FC3}|ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj|solutionrelative:convertexceltoinsertsql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8442E-BE80-430E-BCE3-092C97E01FC3}|ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj|d:\\convertexceltoinsertsql\\convertexceltoinsertsql\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FF8442E-BE80-430E-BCE3-092C97E01FC3}|ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj|solutionrelative:convertexceltoinsertsql\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8442E-BE80-430E-BCE3-092C97E01FC3}|ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj|d:\\convertexceltoinsertsql\\convertexceltoinsertsql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FF8442E-BE80-430E-BCE3-092C97E01FC3}|ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj|solutionrelative:convertexceltoinsertsql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8442E-BE80-430E-BCE3-092C97E01FC3}|ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj|d:\\convertexceltoinsertsql\\convertexceltoinsertsql\\convertexceltoinsertsql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FF8442E-BE80-430E-BCE3-092C97E01FC3}|ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj|solutionrelative:convertexceltoinsertsql\\convertexceltoinsertsql.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FF8442E-BE80-430E-BCE3-092C97E01FC3}|ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj|d:\\convertexceltoinsertsql\\convertexceltoinsertsql\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FF8442E-BE80-430E-BCE3-092C97E01FC3}|ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj|solutionrelative:convertexceltoinsertsql\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ConvertEXCELtoINSERTSQL\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ConvertEXCELtoINSERTSQL\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-20T11:29:57.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ConvertEXCELtoINSERTSQL\\appsettings.Development.json",
+              "ToolTip": "D:\\ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL\\appsettings.Development.json",
+              "RelativeToolTip": "ConvertEXCELtoINSERTSQL\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T10:27:31.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelController.cs",
+              "DocumentMoniker": "D:\\ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL\\Controllers\\ExcelController.cs",
+              "RelativeDocumentMoniker": "ConvertEXCELtoINSERTSQL\\Controllers\\ExcelController.cs",
+              "ToolTip": "D:\\ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL\\Controllers\\ExcelController.cs",
+              "RelativeToolTip": "ConvertEXCELtoINSERTSQL\\Controllers\\ExcelController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwCEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:59:21.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataModel.cs",
+              "DocumentMoniker": "D:\\ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL\\Model\\DataModel.cs",
+              "RelativeDocumentMoniker": "ConvertEXCELtoINSERTSQL\\Model\\DataModel.cs",
+              "ToolTip": "D:\\ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL\\Model\\DataModel.cs",
+              "RelativeToolTip": "ConvertEXCELtoINSERTSQL\\Model\\DataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:33:28.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConvertEXCELtoINSERTSQL.csproj",
+              "DocumentMoniker": "D:\\ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj",
+              "RelativeDocumentMoniker": "ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj",
+              "ToolTip": "D:\\ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj",
+              "RelativeToolTip": "ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T05:30:36.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL\\appsettings.json",
+              "RelativeDocumentMoniker": "ConvertEXCELtoINSERTSQL\\appsettings.json",
+              "ToolTip": "D:\\ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL\\appsettings.json",
+              "RelativeToolTip": "ConvertEXCELtoINSERTSQL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T05:28:38.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL\\Program.cs",
+              "RelativeDocumentMoniker": "ConvertEXCELtoINSERTSQL\\Program.cs",
+              "ToolTip": "D:\\ConvertEXCELtoINSERTSQL\\ConvertEXCELtoINSERTSQL\\Program.cs",
+              "RelativeToolTip": "ConvertEXCELtoINSERTSQL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:45:02.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

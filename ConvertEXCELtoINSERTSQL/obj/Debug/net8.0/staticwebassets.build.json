@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bEZXRHJiphyx3Xi3OKwGk+/XSqnVjwPuLkaAeU7K+gs=",
+  "Source": "ConvertEXCELtoINSERTSQL",
+  "BasePath": "_content/ConvertEXCELtoINSERTSQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

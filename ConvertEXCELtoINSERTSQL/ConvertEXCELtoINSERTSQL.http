@@ -1,0 +1,6 @@
+@ConvertEXCELtoINSERTSQL_HostAddress = http://localhost:5067
+
+GET {{ConvertEXCELtoINSERTSQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
